@@ -1,0 +1,39 @@
+
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+# Lock files
+
+.npm/
+# Optional npm cache directory
+
+Thumbs.db
+.DS_Store
+# OS generated files
+
+*.swp
+.idea/
+.vscode/
+# IDE and editor files
+
+jspm_packages/
+# Dependency directories
+
+out/
+build/
+dist/
+# Build output
+
+.env.*.local
+.env.local
+.env
+# Environment variables
+
+yarn-error.log*
+yarn-debug.log*
+npm-debug.log*
+*.log
+logs/
+# Logs
+
+node_modules/# Node.js dependencies
